@@ -1,0 +1,20 @@
+{
+  "name": "temasespeciales",
+  "version": "1.0.0",
+  "description": "tarea pizzas lau",
+  "license": "ISC",
+  "author": "laura",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "dev" : "nodemon index.js"
+    
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+    "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
